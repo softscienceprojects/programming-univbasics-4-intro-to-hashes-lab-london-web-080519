@@ -33,7 +33,7 @@ end
 
 def update_counting_hash(hash, key)
     hash.fetch(key, key)
-    
+
 end
 
 # given a hash an a key as parameters, return an updated hash
